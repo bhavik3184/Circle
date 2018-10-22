@@ -1,0 +1,7 @@
+{
+  "name": "Circle",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
